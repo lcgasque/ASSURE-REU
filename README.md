@@ -6,4 +6,4 @@ Run from June 7 - 11, 2021 as a Python based undergraduate bootcamp for the Spac
 
 ## Contributors
 
-A. R. Azari, T. Mercer, and the SSL REU Teaching Team. <!-- include whole team? -->
+A. R. Azari, T. Mercer and the REU Team including: M. Fillingim, T. Bowen, S. Badman, and C. Gasque.
