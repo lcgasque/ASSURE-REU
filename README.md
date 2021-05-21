@@ -7,6 +7,6 @@ Organized from June 7 - 11, 2021 as a Python based undergraduate bootcamp for th
 ## How to Guide
 *pending*
 
-## Contributors
+## Contributors and Acknowledgements
 
 A. R. Azari, T. Mercer and the REU Team including: M. Fillingim, T. Bowen, S. Badman, and C. Gasque.
