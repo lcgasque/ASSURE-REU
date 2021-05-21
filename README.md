@@ -9,6 +9,12 @@ See more details on the Space Sciences Lab [education website](https://multivers
 ## How to Guide
 *pending*
 
+## FAQ for Students
+*pending, update to include how to set up Python on their home computers*
+
+## TO DO 
+*https://jupyterhub.readthedocs.io/en/stable/, binder set up*
+
 ## Contributors and Acknowledgements
 
 A. R. Azari, T. Mercer and the REU Team including: M. Fillingim, T. Bowen, S. Badman, and C. Gasque.
