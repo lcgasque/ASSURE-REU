@@ -13,7 +13,7 @@ See more details on the Space Sciences Lab [education website](https://multivers
 *pending, update to include how to set up Python on their home computers*
 
 ## TO DO 
-*https://jupyterhub.readthedocs.io/en/stable/, binder set up*
+*https://jupyterhub.readthedocs.io/en/stable/, binder set up? https://ciakovx.github.io/using_jupyter_notebooks.html also see Berkeley Data Hubs as an option? Log in issues, how to get them to be able to save*
 
 ## Contributors and Acknowledgements
 
