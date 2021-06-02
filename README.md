@@ -6,17 +6,18 @@ This repository contains materials for a Python based undergraduate bootcamp for
 
 See more details on the Space Sciences Lab [education website](https://multiverse.ssl.berkeley.edu/ASSURE).
 
-## How to Guide
-*pending*
+## Quick Start Guide
 
-## FAQ for Students
-*pending, update to include how to set up Python on their home computers*
+You can access these lessons 24/7, even after the bootcamp on Github repository at: github.com/abbyazari/ASSURE-REU. 
 
-<!--## TO DO 
-*https://jupyterhub.readthedocs.io/en/stable/, binder set up? https://ciakovx.github.io/using_jupyter_notebooks.html also see Berkeley Data Hubs as an option? Log in issues, how to get them to be able to save*
+During the bootcamp (REU students only) you can access these through the [2i2c JupyterHub for Jupyter meets the Earth](https://hub.jupytearth.org/). You will need your Github account information to access these on the hub. 
 
-* See example https://hub.gke2.mybinder.org/user/ciakovx-ciakovx.github.io-uf9gs5xt/notebooks/using_jupyter_notebooks.ipynb*-->
+Once logged in:
+- Select the lowest computational allotement (top option).
+- Navigate to the shared files, there you will see an ASSURE-REU folder. 
+- Double click on "Intro.ipynb" and await further instructions.
+
 
 ## Contributors and Acknowledgements
 
-A. R. Azari, T. Mercer and the REU Team including: M. Fillingim, T. Bowen, S. Badman, and C. Gasque.
+A. R. Azari, T. Mercer and the REU Team including: M. Fillingim, T. Bowen, S. Badman, and C. Gasque. We would like to thank [2i2c](https://2i2c.org/), [Jupyter Meets the Earth](https://blog.jupyter.org/jupyter-meets-the-earth-1b0eb33c83f), Fernando Pérez, and Erik Sundell for their assitance and generosity in enabling the computational environment supporting these training materials. 
