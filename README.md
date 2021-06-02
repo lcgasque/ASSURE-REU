@@ -6,7 +6,7 @@ This repository contains materials for a Python based undergraduate bootcamp for
 
 ## Quick Start Guide
 
-You can access these lessons 24/7, even after the bootcamp on Github repository at: github.com/abbyazari/ASSURE-REU. 
+You can access these lessons 24/7 including after the bootcamp on Github repository at: github.com/abbyazari/ASSURE-REU. 
 
 During the bootcamp (REU students only) you can access these through the [2i2c JupyterHub for Jupyter meets the Earth](https://hub.jupytearth.org/). You will need your Github account information to access these on the hub. 
 
