@@ -13,7 +13,7 @@ During the bootcamp (REU students only) you can access these through the [2i2c J
 Once logged in:
 - Select the lowest computational allotement (top option).
 - Navigate to the shared files, there you will see an ASSURE-REU folder. 
-- Double click on "Intro.ipynb" and await further instructions.
+- Double click on "Intro.ipynb" and await further instructions. <!-- The intro should have: navigation about the environment, introduction time, how to collaborate, usage details, other notes. Be clear that this will start at a beginning level, but will end up with something for everyone - there's a range here. Have a personal story! Disucss how the lessons will work, how to ask questions etc. -->
 
 
 ## Contributors and Acknowledgements
