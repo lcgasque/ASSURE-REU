@@ -15,6 +15,14 @@ Once logged in:
 - Navigate to the shared files, there you will see an ASSURE-REU folder. 
 - Double click on "Intro.ipynb", raise your virtual hand on Zoom (so we know you have reached this point), and await further instructions. 
 
+## Survival Guide Tips
+
+The following are some useful packages when working in Python with space science data.
+- [scipy.readsav](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.readsav.html)
+- [Spiceypy](https://spiceypy.readthedocs.io/en/main/)
+- [Astropy](https://www.astropy.org/)
+- [Sunpy](https://sunpy.org/)
+
 
 ## Contributors and Acknowledgements
 
