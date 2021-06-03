@@ -17,7 +17,7 @@ Once logged in:
 
 ## Survival Guide Tips
 
-The following are some useful packages when working in Python with space science data.
+The following are some useful functions and packages when working in Python with space science data.
 - [scipy.readsav](https://docs.scipy.org/doc/scipy/reference/generated/scipy.io.readsav.html)
 - [Spiceypy](https://spiceypy.readthedocs.io/en/main/)
 - [Astropy](https://www.astropy.org/)
