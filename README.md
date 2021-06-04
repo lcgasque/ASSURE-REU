@@ -13,8 +13,8 @@ During the bootcamp (bootcamp students only) you can access these through the [2
 Once logged in:
 - Select the lowest computational allotement (top option).
 - Wait for the hub to load, then when loaded, open the terminal option (lower left).
-- Type the following into the terminal and hit enter: cp -r shared/06_08-Tuesday/ . 
-- Now on the left panel, double click on "Intro.ipynb", raise your virtual hand on Zoom (so we know you have reached this point), and await further instructions. 
+- Type the following into the terminal and hit enter: *cp -r shared/06_08-Tuesday/ .* 
+- Now on the left panel, double click on *Intro.ipynb*, raise your virtual hand on Zoom (so we know you have reached this point), and await further instructions. 
 
 ## Survival Guide Tips
 
