@@ -13,8 +13,8 @@ During the bootcamp (bootcamp students only) you can access these through the [2
 **To access these materials for the bootcamp:**
 - Log into [hub.jupyterearth.org](https://hub.jupytearth.org/).
 - Select the lowest computational option (top option).
-- Wait for the hub to load, then when loaded, open the terminal option (lower left).
-- Type the following into the terminal `git clone https://github.com/abbyazari/ASSURE-REU/` and then hit enter
+- Wait for the hub to load, then when loaded, open the terminal (lower left).
+- Type the following into the terminal `git clone https://github.com/abbyazari/ASSURE-REU/` and then hit enter.
 - Now on the left panel, double click on *CourseIntro.ipynb (under 06_08-Tuesday), raise your virtual hand on Zoom (so we know you have reached this point), and await further instructions. 
 
 ## Survival Guide Tips
