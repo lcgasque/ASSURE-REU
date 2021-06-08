@@ -6,14 +6,15 @@ This repository contains materials for a Python based undergraduate bootcamp for
 
 ## Quick Start Guide
 
-You can access these lessons 24/7 including after the bootcamp on Github repository at: github.com/abbyazari/ASSURE-REU. 
+To access these lessons 24/7 including after the bootcamp on Github repository at: github.com/abbyazari/ASSURE-REU. 
 
 During the bootcamp (bootcamp students only) you can access these through the [2i2c JupyterHub for Jupyter meets the Earth](https://hub.jupytearth.org/). You will need your Github account information to access these on the hub. 
 
-Once logged in:
-- Select the lowest computational allotement (top option).
+**To access these materials for the bootcamp:**
+- Log into [hub.jupyterearth.org](https://hub.jupytearth.org/).
+- Select the lowest computational option (top option).
 - Wait for the hub to load, then when loaded, open the terminal option (lower left).
-- Type the following into the terminal and hit enter: *cp -r shared/06_08-Tuesday/ .* 
+- Type the following into the terminal and hit enter: *cp -r shared/ASSURE-REU/ .* 
 - Now on the left panel, double click on *Intro.ipynb*, raise your virtual hand on Zoom (so we know you have reached this point), and await further instructions. 
 
 ## Survival Guide Tips
